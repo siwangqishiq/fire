@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample3_14/LoadUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample3_14/LoadedObjectVertexNormalTexture.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample3_14/MatrixState.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample3_14/Normal.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample3_14/ParticleDataConstant.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample3_14/ParticleForDraw.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample3_14/ParticleSystem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample3_14/Sample2_12Activity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample3_14/ShaderUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample3_14/Wall.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample3_14/WallsForwDraw.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample5_3_V1/LoadUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample5_3_V1/LoadedObjectVertexNormal.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample5_3_V1/MatrixState.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample5_3_V1/Normal.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample5_3_V1/Sample5_3_V1_Activity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample5_3_V1/ShaderUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample5_3_V1/TextureRect.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample5_3_V3/MatrixState.java" charset="GBK" />
+  </component>
+</project>
